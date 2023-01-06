@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Exporting to D:\¸´Ï° (¸´Ï°).xml
+   Collection: d:\software\z_extended\sm18\systems\¸´Ï°
+   Date: Monday, May 9, 2022, 10:34:19 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 10:34:22 AM in 00:00:03 sec (Monday, May 9, 2022)
+
+NO ERRORS (Exporting to D:\¸´Ï° (¸´Ï°).xml)
+
+____________________________________________________________

@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: convert to topics elements
+   Collection: d:\software\z_extended\sm18\systems\复习
+   Date: 2022年5月2日, 15:35:08
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 15:35:08 in 00:00:00 sec (2022年5月2日)
+
+NO ERRORS (Operation: convert to topics elements)
+
+____________________________________________________________

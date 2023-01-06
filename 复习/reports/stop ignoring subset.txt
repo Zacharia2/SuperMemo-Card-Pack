@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: stop ignoring elements
+   Collection: d:\software\z_extended\sm18\systems\¸´Ï°
+   Date: Friday, April 15, 2022, 9:49:43 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 9:49:43 AM in 00:00:00 sec (Friday, April 15, 2022)
+
+NO ERRORS (Operation: stop ignoring elements)
+
+____________________________________________________________

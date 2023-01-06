@@ -1,0 +1,28 @@
+SuperMemo Report
+   Activity: Importing from D:\Dropbox\00-TMP\adveng 2018 (3000词根词缀).xml
+   Collection: d:\software\z_extended\sm18\systems\红宝石书
+   Date: Friday, April 29, 2022, 3:18:09 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #8,634: Advanced English 2018
+
+Dismissing Topic #8,635: User's Own Items
+
+Dismissing Topic #8,636: 3000词根词缀
+
+Dismissing Topic #8,637: 词根
+
+Dismissing Topic #11,130: 前缀&词根
+
+Dismissing Topic #11,166: 前缀&后缀
+
+Dismissing Topic #11,180: 后缀
+
+Dismissing Topic #11,456: 前缀
+
+
+Process completed at 3:19:39 PM in 00:01:30 sec (Friday, April 29, 2022)
+
+NO ERRORS (Importing from D:\Dropbox\00-TMP\adveng 2018 (3000词根词缀).xml)
+
+____________________________________________________________

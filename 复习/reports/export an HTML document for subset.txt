@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: export an HTML document for elements
+   Collection: d:\software\z_extended\sm18\systems\¸´Ï°
+   Date: Monday, May 9, 2022, 10:14:57 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 10:15:03 AM in 00:00:05 sec (Monday, May 9, 2022)
+
+NO ERRORS (Operation: export an HTML document for elements)
+
+____________________________________________________________

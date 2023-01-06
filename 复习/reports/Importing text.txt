@@ -1,0 +1,28 @@
+SuperMemo Report
+   Activity: Importing from d:\software\z_extended\sm18\systems\文学写作之素材\temp\transfer.txt
+   Collection: d:\software\z_extended\sm18\systems\复习
+   Date: 2022年5月2日, 15:30:38
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Collecting elements
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,146: TODO
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,147: 《人民日报??
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,152: 《人民日报》写给青年人的八封信    时间之河川流不息，每一代青年都有自己的际遇和机缘，都要在自己所处的时代坐标上谋划人生、创造历史。自十九大闭幕不久后，人民日报陆续发表了八封写给青年人的主题信。八封信，八个角度：梦想，奋斗，健康，榜样，择业，爱国，背景，未来……立意高?? 文采斐然，是不可多得的精品素材??.
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,159: 2022年大学语文作文素材精??
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,160: 【时事热点篇??
+Warning! Modifying repetition history for non-memorized element:
+Topic #141: 【哲理思辩篇??
+Warning! Modifying repetition history for non-memorized element:
+Topic #1,174: 【品德素养篇??
+Creating components
+
+Process completed at 15:30:43 in 00:00:05 sec (2022年5月2日)
+
+NO ERRORS (Importing from d:\software\z_extended\sm18\systems\文学写作之素材\temp\transfer.txt)
+
+____________________________________________________________

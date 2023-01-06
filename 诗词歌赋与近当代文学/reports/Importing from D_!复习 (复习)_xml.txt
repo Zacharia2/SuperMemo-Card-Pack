@@ -1,0 +1,36 @@
+SuperMemo Report
+   Activity: Importing from D:\复习 (复习).xml
+   Collection: d:\software\z_extended\sm18\systems\诗词歌赋与近当代文学
+   Date: Monday, May 9, 2022, 10:34:53 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #844: 复习
+
+Dismissing Topic #1,289: TODO
+
+Dismissing Concept #1,245: 语文复习
+
+Dismissing Topic #859: 文学常识之真题回顾（2007-2020）
+
+Dismissing Topic #1,330: 文学写作之素材
+
+Dismissing Concept #1,058: 计算机疑难点
+
+Dismissing Topic #1,832: 计算机 计算简答等
+
+Dismissing Topic #1,867: 截图题
+
+Dismissing Concept #1,873: 英语复习
+
+Dismissing Topic #1,234: 英语范文
+
+Dismissing Topic #1,116: 完成时的标志
+
+Dismissing Topic #1,881: 英语必备单词
+
+
+Process completed at 10:35:53 AM in 00:01:00 sec (Monday, May 9, 2022)
+
+NO ERRORS (Importing from D:\复习 (复习).xml)
+
+____________________________________________________________

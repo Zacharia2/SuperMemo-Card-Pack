@@ -1,0 +1,70 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\software\z_extended\sm18\systems\复习
+   Date: Friday, April 15, 2022, 6:08:02 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 938 element records (ElementInfo.dat)
+Turning on tasklist verification along element data integrity checks
+Verifying integrity of element data (938 elements in ElementInfo.dat)
+Verifying knowledge tree (938 elements in Contents.dat)
+157 children at Topic #699: （五）人物及作品简介 1、从中国上古到秦始皇统一中国（公元前221年）期间的文学，叫先秦文学2、神话产生在文字发明以前。神话中充满了丰富的想象，是中国浪漫主义文学的源头 3、在中国流传最广的神话是“女娲补天”、“后羿射日”、“精卫填海”、“嫦娥奔月”等 .
+Verifying the priority queue of 411 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 949 filespace slots
+Transferring stray file 518.jpg
+   From: d:\software\z_extended\sm18\systems\复习\elements\1\21\518.jpg
+   To: d:\software\z_extended\sm18\systems\复习\recover\518.jpg
+Unused filespace slot count: 518
+Checking for empty filespace slots
+Inspecting 518 empty filespace slot(s)
+Deleting temporary folders
+Deleting directory: d:\software\z_extended\sm18\systems\复习\temp
+Removing empty collection directories
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\10\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\11\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\12\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\13\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\14\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\2\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\29\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\3\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\30\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\4\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\6\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\7\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\1\9\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\10\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\11\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\13\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\15\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\16\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\17\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\18\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\19\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\2\1\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\27\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\28\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\29\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\30\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\4\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\5\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\8\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\elements\9\
+Deleting directory: d:\software\z_extended\sm18\systems\复习\subsets\tmp\
+
+Process completed at 6:08:04 PM in 00:00:01 sec (Friday, April 15, 2022)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

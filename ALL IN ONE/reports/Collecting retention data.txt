@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: d:\software\z_extended\sm18\systems\all in one
+   Date: Friday, January 6, 2023, 2:37:22 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 2:37:22 PM in 00:00:00 sec (Friday, January 6, 2023)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

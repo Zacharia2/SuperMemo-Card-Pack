@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: d:\software\z_extended\sm18\systems\如何阅读一本书
+   Date: Thursday, April 21, 2022, 8:38:52 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 8:38:52 PM in 00:00:00 sec (Thursday, April 21, 2022)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

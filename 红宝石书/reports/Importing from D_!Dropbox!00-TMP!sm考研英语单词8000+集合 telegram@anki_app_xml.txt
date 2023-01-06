@@ -1,0 +1,36 @@
+SuperMemo Report
+   Activity: Importing from D:\Dropbox\00-TMP\sm考研英语单词8000+集合 telegram@anki_app.xml
+   Collection: d:\software\z_extended\sm18\systems\红宝石书
+   Date: Friday, April 29, 2022, 3:12:58 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #2: THE COLLECTION OF YZB
+
+Dismissing Concept #3: TODO
+
+Dismissing Concept #4: ALL IN ONE
+
+Dismissing Concept #5: English
+
+Dismissing Topic #6: 2021 红宝书
+
+Dismissing Topic #7: 单词
+
+Dismissing Topic #8: 1 必考词
+
+Dismissing Topic #1,837: 2 基础词
+
+Dismissing Topic #5,033: 3 超纲词
+
+Dismissing Topic #6,085: 词组
+
+Dismissing Topic #6,086: 1 必考词组
+
+Dismissing Topic #7,267: 2 基础词组
+
+
+Process completed at 3:13:19 PM in 00:00:20 sec (Friday, April 29, 2022)
+
+NO ERRORS (Importing from D:\Dropbox\00-TMP\sm考研英语单词8000+集合 telegram@anki_app.xml)
+
+____________________________________________________________

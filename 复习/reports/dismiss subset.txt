@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: dismiss elements
+   Collection: d:\software\z_extended\sm18\systems\¸´Ï°
+   Date: Saturday, May 7, 2022, 6:20:33 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 6:20:33 PM in 00:00:00 sec (Saturday, May 7, 2022)
+
+NO ERRORS (Operation: dismiss elements)
+
+____________________________________________________________

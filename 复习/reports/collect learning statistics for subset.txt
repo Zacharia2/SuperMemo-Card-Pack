@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: collect learning statistics for elements
+   Collection: d:\software\z_extended\sm18\systems\¸´Ï°
+   Date: Tuesday, May 3, 2022, 9:53:23 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 9:53:24 AM in 00:00:00 sec (Tuesday, May 3, 2022)
+
+NO ERRORS (Operation: collect learning statistics for elements)
+
+____________________________________________________________

@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: d:\software\z_extended\sm18\systems\如何阅读一本书
+   Date: Thursday, April 21, 2022, 8:38:51 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 8:38:51 PM in 00:00:00 sec (Thursday, April 21, 2022)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________

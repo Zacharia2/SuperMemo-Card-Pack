@@ -1,0 +1,19 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\software\z_extended\sm18\systems\сОнд
+   Date: Monday, April 11, 2022, 11:57:19 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 210 element records (ElementInfo.dat)
+Verifying integrity of element data (210 elements in ElementInfo.dat)
+Verifying knowledge tree (210 elements in Contents.dat)
+Verifying the priority queue of 210 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 11:57:20 PM in 00:00:00 sec (Monday, April 11, 2022)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

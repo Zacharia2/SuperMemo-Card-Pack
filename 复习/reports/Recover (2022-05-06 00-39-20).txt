@@ -1,0 +1,126 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: d:\software\z_extended\sm18\systems\复习
+   Date: Friday, May 6, 2022, 12:39:20 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 1,244 element records (ElementInfo.dat)
+Verifying integrity of element data (1244 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #141
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #1147
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #1152
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #1159
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #1160
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Non-zero parameters in a dismissed item #1174
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Element missing from the pending queue: #Item #1,244: 25. 演讲者放映、观众自行浏览和在展台浏览三种放映方式有什么用途和特点？  [.]
+Verifying knowledge tree (1,244 elements in Contents.dat)
+157 children at Topic #699: （五）人物及作品简介 1、从中国上古到秦始皇统一中国（公元前221年）期间的文学，叫先秦文学2、神话产生在文字发明以前。神话中充满了丰富的想象，是中国浪漫主义文学的源头 3、在中国流传最广的神话是“女娲补天”、“后羿射日”、“精卫填海”、“嫦娥奔月”等 .
+298 children at Topic #645: 课外常识总结
+Verifying the priority queue of 1,195 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries
+Rebuilding Text registry (1802 members in a 1930 member file)
+Rebuilding Template registry (16 members in a 16 member file)
+Rebuilding Font registry (0 members in a 0 member file)
+Rebuilding Reference registry (141 members in a 142 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (0 members in a 0 member file)
+Rebuilding Program registry (0 members in a 0 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (21 members in a 24 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (1 members in a 1 member file)
+Rebuilding Concept registry (4 members in a 5 member file)
+Rebuilding Link registry (2 members in a 2 member file)
+Registering components
+Transferring templates
+Registering references
+Registering image references
+Registration of links for 2 members in a 2 member file
+Registration of concepts for 4 members in a 5 member file
+Verifying Text registry
+Warning! Registry member not used
+   Text #3: HTML: <P>&nbsp;</P>
+1 unused member(s) in the Text registry
+Verifying Font registry
+Verifying Reference registry
+Verifying Ole registry
+Verifying Image registry
+Warning! Registry member not used
+   Image #1: d:\software\z_extended\sm18\systems\复习\temp\PastedImage20065.jpg
+Warning! Registry member not used
+   Image #2: d:\software\z_extended\sm18\systems\语文\temp\PastedImage18416.jpg
+Warning! Registry member not used
+   Image #4: d:\software\z_extended\sm18\systems\复习\temp\PastedImage6778.jpg
+Warning! Registry member not used
+   Image #5: d:\software\z_extended\sm18\systems\复习\temp\PastedImage9066.jpg
+Warning! Registry member not used
+   Image #6: d:\software\z_extended\sm18\systems\复习\temp\PastedImage14019.jpg
+Warning! Registry member not used
+   Image #7: d:\software\z_extended\sm18\systems\复习\temp\PastedImage29315.jpg
+Warning! Registry member not used
+   Image #8: d:\software\z_extended\sm18\systems\复习\temp\PastedImage20071.jpg
+Warning! Registry member not used
+   Image #9: d:\software\z_extended\sm18\systems\复习\temp\PastedImage10075.jpg
+Warning! Registry member not used
+   Image #10: d:\software\z_extended\sm18\systems\复习\temp\PastedImage22057.jpg
+Warning! Registry member not used
+   Image #11: d:\software\z_extended\sm18\systems\复习\temp\PastedImage9001.jpg
+Warning! Registry member not used
+   Image #12: d:\software\z_extended\sm18\systems\复习\temp\PastedImage10181.jpg
+Warning! Registry member not used
+   Image #13: d:\software\z_extended\sm18\systems\复习\temp\PastedImage28419.jpg
+Warning! Registry member not used
+   Image #14: d:\software\z_extended\sm18\systems\复习\temp\PastedImage18868.jpg
+Warning! Registry member not used
+   Image #15: d:\software\z_extended\sm18\systems\复习\temp\PastedImage19992.jpg
+Warning! Registry member not used
+   Image #16: d:\software\z_extended\sm18\systems\复习\temp\PastedImage2788.jpg
+Warning! Registry member not used
+   Image #17: d:\software\z_extended\sm18\systems\复习\temp\PastedImage4891.jpg
+Warning! Registry member not used
+   Image #18: d:\software\z_extended\sm18\systems\复习\temp\PastedImage4272.jpg
+Warning! Registry member not used
+   Image #19: 你
+Warning! Registry member not used
+   Image #20: SQL 排序
+Warning! Registry member not used
+   Image #23: 题目
+20 unused member(s) in the Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Verifying Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: Tasks
+1 unused member(s) in the Tasklist registry
+Verifying Concept registry
+Verifying Link registry
+Deleting directory: d:\software\z_extended\sm18\systems\复习\registry\Text_users
+Deleting directory: d:\software\z_extended\sm18\systems\复习\registry\Reference_users
+Deleting directory: d:\software\z_extended\sm18\systems\复习\registry\Template_users
+Verifying repetition history
+Repetition history compressed from 104.13 kB to 103.389 kB
+Deleting temporary folders
+Deleting directory: d:\software\z_extended\sm18\systems\复习\temp
+Removing empty collection directories
+Deleting directory: d:\software\z_extended\sm18\systems\复习\subsets\tmp\
+
+Process completed at 12:39:27 AM in 00:00:06 sec (Friday, May 6, 2022)
+
+7 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

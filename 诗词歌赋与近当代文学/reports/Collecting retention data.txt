@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: d:\software\z_extended\sm18\systems\诗词歌赋与近当代文学
+   Date: Friday, April 15, 2022, 5:17:46 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 5:17:46 PM in 00:00:00 sec (Friday, April 15, 2022)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
